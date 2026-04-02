@@ -1,0 +1,7 @@
+Rice,Kharif,10,40,8000,45000
+Wheat,Rabi,8,30,7000,28000
+Maize,Kharif,6,25,6000,32000
+Cotton,Kharif,12,50,9000,36000
+Pulses,Rabi,5,20,5000,11000
+Groundnut,Kharif,7,28,6500,18000
+Mustard,Rabi,6,24,6000,15000
